@@ -1,4 +1,4 @@
-# Домашнее задание к занятию "GIT" - `Chernov Vyacheslav`
+# Домашнее задание к занятию "GIT" - "`Chernov Vyacheslav`"
 
 ### Задание 1
 
